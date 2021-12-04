@@ -36,6 +36,6 @@ jhf.rpc.client.loadbalance.algorithm=RoundRobin
 
 # 自定义协议
 
-协议头16B
+其中协议头占16B
 
 ![image-20210929203712679](README-images/image-20210929203712679.png)
