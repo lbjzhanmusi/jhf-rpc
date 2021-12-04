@@ -21,7 +21,7 @@ jhf.rpc.server.port=8080
 选择序列化算法
 jhf.rpc.client.serializer.algorithm=Json
 
-提供如下
+提供如下序列化方式：
 
 1. Json
 2. Java
@@ -29,7 +29,7 @@ jhf.rpc.client.serializer.algorithm=Json
 选择负载均衡算法
 jhf.rpc.client.loadbalance.algorithm=RoundRobin
 
-提供如下
+提供如下负载均衡算法：
 
 1. RoundRobin--轮询算法
 2. RandomRule--随机算法
