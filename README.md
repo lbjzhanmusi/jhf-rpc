@@ -1,5 +1,4 @@
-Netty+Zookeeper的简陋Rpc嘻嘻（0~3岁小孩子做的玩具）
-
+## Netty+Zookeeper的Rpc
 # 项目流程图
 
 ![image-20210929200740330](README-images/image-20210929200740330.png)
