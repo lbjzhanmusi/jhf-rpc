@@ -29,9 +29,10 @@ jhf.rpc.client.serializer.algorithm=Json
 选择负载均衡算法
 jhf.rpc.client.loadbalance.algorithm=RoundRobin
 
-提供如下（只有一种最简单的轮询哈哈）
+提供如下
 
-1. RoundRobin
+1. RoundRobin--轮询算法
+2. RandomRule--随机算法
 
 # 自定义协议
 
