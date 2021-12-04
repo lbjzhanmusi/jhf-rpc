@@ -1,4 +1,4 @@
-## Netty+Zookeeper的Rpc
+## 基于Netty+Zookeeper的分布式高性能Rpc
 # 项目流程图
 
 ![image-20210929200740330](README-images/image-20210929200740330.png)
@@ -29,7 +29,7 @@ jhf.rpc.client.serializer.algorithm=Json
 选择负载均衡算法
 jhf.rpc.client.loadbalance.algorithm=RoundRobin
 
-提供如下（只有一种最简单的轮询哈哈哈哈哈）
+提供如下（只有一种最简单的轮询哈哈）
 
 1. RoundRobin
 
